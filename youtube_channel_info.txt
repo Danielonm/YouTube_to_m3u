@@ -2,8 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+Ekattor TV Live | Bangla |
 https://www.youtube.com/watch?v=O9mOtdZ-nSk
 
-Gazi TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
+Gazi TV Live | Bangla |
 https://www.youtube.com/watch?v=O9mOtdZ-nSk/live
