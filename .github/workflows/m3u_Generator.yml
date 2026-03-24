@@ -4,8 +4,12 @@ name: M3U generator
 
 # Controls when the action will run. 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 */3 * * *'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← Agrega esta línea* * *'
 
   pull_request:
     branches:
